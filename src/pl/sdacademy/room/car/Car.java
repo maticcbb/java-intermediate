@@ -1,21 +1,25 @@
 package pl.sdacademy.room.car;
 
 
-
 public class Car {
 
     private Engine engine;
     private Wheel[] wheels;
     private String brand;
+    private Track tor;
+    private int position;
 
-
-    public Car(Engine engine, Wheel[] wheels, String brand) {
-        this.engine = engine;
-        this.wheels = wheels;
-        this.brand = brand;
+    public Car(Track tor , int position) {
+        this.tor = tor;
+        tor.setCarAt(position, this);
     }
 
-    public void move(){
-        System.out.printf("Car %s is moving" , brand);
+    public void move(int distance){
+        int newPosition = position + distance;
+
+        }
+
     }
-}
+
+
+
