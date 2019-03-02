@@ -6,14 +6,19 @@ public class Elephant extends Animal {
         super(name);
     }
 
+    @Override
+    public void eat() {
+
+    }
+
     Elephant(){
          super("Babar");
     }
 
-    @Override
-    void eat() {
-        System.out.println("Elephant eats ! ");
-    }
+//    @Override
+//    void eat() {
+//        System.out.println("Elephant eats ! ");
+//    }
 
     void makeASound(){
         System.out.println("elephant makes a sound");

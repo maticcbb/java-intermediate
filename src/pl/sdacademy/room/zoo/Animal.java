@@ -1,6 +1,6 @@
 package pl.sdacademy.room.zoo;
 
-abstract class Animal {
+abstract class Animal implements Eater, Greeter {
 
     private String name;
 
@@ -8,10 +8,8 @@ abstract class Animal {
         this.name = name;
     }
 
-    abstract void eat();
+   public abstract void eat();
 
-   void sayHi() {
-       System.out.println("Hello, my name is " + name);
-   }
+   public void sayHi() { System.out.println("Hello, my name is " + name);}
 
 }

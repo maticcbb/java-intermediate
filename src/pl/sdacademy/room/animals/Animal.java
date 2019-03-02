@@ -12,6 +12,7 @@ public class Animal {
         System.out.println("Animal eats");
     }
 
+
     public void move(){
         System.out.println("Animal moves");
     }
