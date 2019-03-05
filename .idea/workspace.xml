@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c0ea766-65c3-4287-a625-ab985a84529b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/lambda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/lambda/zad/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/lambda/zad/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/lambda/zad/bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/lambda/zad/bank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/lambda/zad/bank/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/oop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/oop/temperature/TemperatureConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/optional/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/optional/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/optional/NullCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/stream/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/stream/zad1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/stream/zad3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/stream/zad5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/stream/zad7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad4/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad5/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/zad6/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pl/sdacademy/room/oop/temperature/TemperatureConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/NumbersList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/SumNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-intermediate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-intermediate.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,38 +65,39 @@
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.71" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.87" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="97" />
+          <entry key="java" value="102" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="97" />
+          <entry key="JAVA" value="102" />
           <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="2" />
-          <entry key="java" value="9111" />
-          <entry key="txt" value="170" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="11750" />
+          <entry key="txt" value="194" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9111" />
-          <entry key="PLAIN_TEXT" value="172" />
+          <entry key="JAVA" value="11750" />
+          <entry key="PLAIN_TEXT" value="200" />
         </counts>
       </usages-collector>
     </session>
@@ -143,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/oop/temperature/TemperatureConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="300">
+              <caret line="22" column="84" lean-forward="true" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,28 +129,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/optional/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/NumbersList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="542">
+              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/optional/Colors.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="102">
+              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/SumNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-578">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/optional/NullCheck.java">
+        <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/oop/numbers/SumNumbersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -190,8 +178,8 @@
         <option value="Kotlin File" />
         <option value="Interface" />
         <option value="Enum" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -206,11 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/zoo/Animal.java" />
-        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/payment/PaymentGatewayException.java" />
-        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/payment/PaymentGateway.java" />
-        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/payment/OrderLine.java" />
-        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/payment/CreditCardPaymentGateway.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/room/payment/Example.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/room/payment/ShoppingCart.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/room/zoo/Elephant.java" />
@@ -257,6 +240,11 @@
         <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/Main.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/temperature/TemperatureConverterTest.java" />
         <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/temperature/TemperatureConverter.java" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/NumbersGetter.java" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/NumbersList.java" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/Main.java" />
+        <option value="$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/SumNumbers.java" />
+        <option value="$PROJECT_DIR$/test/pl/sdacademy/room/oop/numbers/SumNumbersTest.java" />
       </list>
     </option>
   </component>
@@ -276,8 +264,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,7 +295,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="room" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="temperature" type="462c0819:PsiDirectoryNode" />
+              <item name="numbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-intermediate" type="b2602c69:ProjectViewProjectNode" />
@@ -320,12 +306,21 @@
               <item name="java-intermediate" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-intermediate" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-intermediate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
               <item name="temperature" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -335,7 +330,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551786489160" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551820945397" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -347,6 +342,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sdacademy.room.oop.numbers" />
       <recent name="pl.sdacademy.room.oop.temperature" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -372,13 +368,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TemperatureConverterTest">
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.room.oop.Main" />
+  <component name="RunManager" selected="JUnit.SumNumbersTest.sumNumbers">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.room.oop.numbers.Main" />
       <module name="java-intermediate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.room.oop.*" />
+          <option name="PATTERN" value="pl.sdacademy.room.oop.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,15 +382,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.room.optional.Main" />
+    <configuration name="SumNumbersTest.sumNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-intermediate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.room.optional.*" />
+          <option name="PATTERN" value="pl.sdacademy.room.oop.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="pl.sdacademy.room.oop.numbers" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.room.oop.numbers.SumNumbersTest" />
+      <option name="METHOD_NAME" value="sumNumbers" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -446,19 +445,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (6)" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.TemperatureConverterTest" />
       <item itemvalue="JUnit.TemperatureConverterTest.testShouldConvertCelsiusToFarenheit" />
       <item itemvalue="JUnit.TemperatureConverterTest.testShouldConvertFarenheitToCelsius" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.SumNumbersTest.sumNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SumNumbersTest.sumNumbers" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.TemperatureConverterTest" />
         <item itemvalue="JUnit.TemperatureConverterTest.testShouldConvertFarenheitToCelsius" />
         <item itemvalue="JUnit.TemperatureConverterTest.testShouldConvertCelsiusToFarenheit" />
-        <item itemvalue="Application.Main (6)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +492,8 @@
       <workItem from="1551723269552" duration="5723000" />
       <workItem from="1551729471626" duration="96000" />
       <workItem from="1551733409117" duration="706000" />
-      <workItem from="1551782670327" duration="3725000" />
+      <workItem from="1551782670327" duration="15903000" />
+      <workItem from="1551806485081" duration="8524000" />
     </task>
     <task id="LOCAL-00001" summary="Sample of encapsulation , polimorphism , Exceptions and Lists">
       <created>1551289957508</created>
@@ -523,13 +523,17 @@
       <option name="project" value="LOCAL" />
       <updated>1551525714709</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP Tasks  and some TDD">
+      <created>1551786542569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551786542569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TemperatureConverterTest_testShouldConvertCelsiusToFarenheit - 2019.03.05 at 12h 25m 27s.xml">
-      <configuration name="TemperatureConverterTest.testShouldConvertCelsiusToFarenheit" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TemperatureConverterTest - 2019.03.05 at 12h 25m 36s.xml">
       <configuration name="TemperatureConverterTest" configurationId="JUnit" />
     </history-entry>
@@ -557,9 +561,12 @@
     <history-entry file="TemperatureConverterTest - 2019.03.05 at 12h 37m 23s.xml">
       <configuration name="TemperatureConverterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SumNumbersTest_sumNumbers - 2019.03.05 at 20h 39m 24s.xml">
+      <configuration name="SumNumbersTest.sumNumbers" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60815000" />
+    <option name="totallyTimeSpent" value="81517000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,7 +581,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49663526" visible="true" weight="0.1625964" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49663526" visible="true" weight="0.16452442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -583,7 +590,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50336474" side_tool="true" weight="0.26285347" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30955586" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30282637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -592,7 +599,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32839838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -645,37 +652,10 @@
     <MESSAGE value="Simple example of calculator and throw Exceptions" />
     <MESSAGE value="Examples of threads" />
     <MESSAGE value="Tasks lambdas , threads , streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks lambdas , threads , streams" />
+    <MESSAGE value="OOP Tasks  and some TDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Tasks  and some TDD" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/payment/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/zoo/Elephant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/zoo/Parrot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/payment/CreditCardPaymentGateway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="88" selection-start-line="5" selection-start-column="88" selection-end-line="5" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/payment/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -930,35 +910,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/java-intermediate/pl/sdacademy/room/car/Track.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/oop/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/Main.java" />
+    <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/oop/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/stream/zad1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="89" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -966,13 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/temperature/TemperatureConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -997,10 +949,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/temperature/TemperatureConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/NumbersList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/oop/temperature/TemperatureConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="300">
+          <caret line="22" column="84" lean-forward="true" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pl/sdacademy/room/oop/numbers/SumNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sdacademy/room/oop/numbers/SumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
